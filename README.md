@@ -62,11 +62,11 @@ Each certification has contributed to my comprehensive skill set, enabling me to
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [Simone](https://www.linkedin.com/in/scweb)
+- **LinkedIn:** [Simone](https://www.linkedin.com/in/simonechinaglia)
 - **Email:** `tech@intarmour.com`
 
 Feel free to reach out for collaborations, contracting opportunities, or just a chat about the latest in cloud security and DevSecOps!
 
 ---
 
-> "Transforming chaos into order is what computers are best at. This is what I do with security." - Simone
+> "This isn't about money. This isn't about politics. I can target anyone, anything, anywhere." - Nicholas Hathaway
