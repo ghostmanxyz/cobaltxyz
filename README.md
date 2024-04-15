@@ -70,3 +70,9 @@ Feel free to reach out for collaborations, contracting opportunities, or just a 
 ---
 
 > "This isn't about money. This isn't about politics. I can target anyone, anything, anywhere." - Nicholas Hathaway
+
+------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cobaltxyz)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![cobaltxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobaltxyz)](https://github.com/cobaltxyz/github-readme-stats)
