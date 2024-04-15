@@ -76,3 +76,5 @@ Feel free to reach out for collaborations, contracting opportunities, or just a 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cobaltxyz)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![cobaltxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobaltxyz)](https://github.com/cobaltxyz/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cobaltxyz&theme=blueberry)
