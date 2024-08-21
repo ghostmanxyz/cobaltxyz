@@ -1,10 +1,8 @@
 # Hi there, I'm Simone (cobaltxyz)👋
 
-## Gov Cloud Architect & Cybersecurity Specialist | Certified in AWS, IBM, Microsoft, Google | 10+ Years in Cloud Engineering and Security
+## Gov Cloud Security Architect | Certified in AWS, IBM, Microsoft, Google | 10+ Years in Cloud Engineering and Security
 
 I am the Founder of [Intarmour.com](https://intarmour.com), a company dedicated to advancing the field of cybersecurity through in-depth research and cutting-edge DevSecOps solutions. Leveraging my dynamic background as a reformed black hat hacker, I offer unparalleled insights into the intricacies of cybersecurity threats and defense mechanisms. My expertise extends through all layers of DevSecOps and cloud security, where I employ a strategic, security-first approach to infrastructure and software development life cycles. 
-
-As a freelance contractor and virtual Chief Information Security Officer (vCISO), I specialize in helping organizations build robust, resilient security architectures and seamlessly integrate advanced security protocols into their DevOps practices. This dual focus not only enhances defense mechanisms but also ensures that security is a cornerstone of development, operations, and automation strategies.
 
 ---
 
