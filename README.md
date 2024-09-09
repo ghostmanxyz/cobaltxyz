@@ -60,7 +60,7 @@ Each certification has contributed to my comprehensive skill set, enabling me to
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [Simone](https://www.linkedin.com/in/simonechinaglia)
+- **LinkedIn:** [Simone](https://www.linkedin.com/in/simonenogara)
 - **Email:** `tech@intarmour.com`
 
 Feel free to reach out for collaborations, contracting opportunities, or just a chat about the latest in cloud security and DevSecOps!
