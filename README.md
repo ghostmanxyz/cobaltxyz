@@ -1,6 +1,6 @@
-# Hi there, I'm Simone (cobaltxyz)👋
+# Hi there, I'm Simone (ghostmanxyz)👋
 
-## Gov Cloud Security Architect | Certified in AWS, IBM, Microsoft, Google | 10+ Years in Cloud Engineering and Security
+## Reformed Blackhat computer hacker | Specilized in Cloud Security and Server Pentest | Quantum Cryptography researcher 
 
 I am the Founder of [Intarmour.com](https://intarmour.com), a company dedicated to advancing the field of cybersecurity through in-depth research and cutting-edge DevSecOps solutions. Leveraging my dynamic background as a reformed black hat hacker, I offer unparalleled insights into the intricacies of cybersecurity threats and defense mechanisms. My expertise extends through all layers of DevSecOps and cloud security, where I employ a strategic, security-first approach to infrastructure and software development life cycles. 
 
