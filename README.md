@@ -6,7 +6,7 @@ I am the Founder of [Intarmour.com](https://intarmour.com), a company dedicated 
 
 ---
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Tools 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=2bbc8a)
